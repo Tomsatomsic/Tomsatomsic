@@ -1,4 +1,4 @@
-<h1 align="center">Přejel mi obliče parní válec💀j Tomsatomsic</h1>
+<h1 align="center">Přejel mi obliče parní válec💀 Tomsatomsic</h1>
 <h3 align="center">sport je overrated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomsatomsic&label=Profile%20views&color=0e75b6&style=flat" alt="tomsatomsic" /> </p>
@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **my computer**
 
 - 🌱 I’m currently learning **žávascript**
-
-- 📝 I regularly write articles on [https://media.tenor.com/images/9775ab223a25a93aa3c8d7adb1a1c1df/tenor.gif](https://media.tenor.com/images/9775ab223a25a93aa3c8d7adb1a1c1df/tenor.gif)
 
 - 💬 Ask me about **your mother**
 
