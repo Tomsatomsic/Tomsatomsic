@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **discord:TUPEJDEMENT#4334**
 
-- ⚡ Fun fact **i like playing games on my computer*
+- ⚡ Fun fact **i like playing games on my computer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
